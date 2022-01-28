@@ -1,0 +1,29 @@
+.contenedor1 {
+	width: 400px;
+	margin: 50px auto;
+	background-color: #F3EDED;
+    border: 1px solid #ECE8E8;
+	height: 300px;
+	border-radius:8px;
+	padding: 0px 9px 0px 9px;
+}
+
+.contenedor2 {
+	width: 400px;
+	margin: 50px auto;
+	background-color: #F3EDED;
+    border: 1px solid #ECE8E8;
+	height: 400px;
+	border-radius:8px;
+	padding: 0px 9px 0px 9px;
+}
+
+.icono {
+	margin-left: 40%;
+	margin-top: 10px;
+    margin-bottom:10px;
+}
+
+.aviso {
+	padding-top: 5px;
+}
